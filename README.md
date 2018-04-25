@@ -1,0 +1,3 @@
+# ColorfulBubbleParticles
+多彩粒子效果
+超级炫酷多彩气泡粒子跟随鼠标移动扩散js特效代码;原生js+CSS3实现，非常炫酷可的背景粒子特效
